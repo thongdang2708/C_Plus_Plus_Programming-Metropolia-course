@@ -1,0 +1,3 @@
+/Users/thongdang/Desktop/C++/C++_programming_course/extra_programming_exercises/cmake-build-debug/CMakeFiles/extra_programming_exercises.dir
+/Users/thongdang/Desktop/C++/C++_programming_course/extra_programming_exercises/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thongdang/Desktop/C++/C++_programming_course/extra_programming_exercises/cmake-build-debug/CMakeFiles/rebuild_cache.dir
